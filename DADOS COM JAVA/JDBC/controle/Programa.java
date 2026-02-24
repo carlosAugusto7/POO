@@ -13,6 +13,7 @@ public class Programa {
 	//DaoAlteracao daoAlteracao = new DaoAlteracao();
 	//DaoExcluir daoExcluir = new DaoExcluir();
 	//DaoLista daoLista = new DaoLista();
+	 DaoConsulta daoConsulta = new DaoConsulta();
 	}
 
 }
